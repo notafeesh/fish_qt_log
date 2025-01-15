@@ -1,0 +1,9 @@
+site_name: My Docs
+plugins:
+markdown_extensions:
+ - attr_list
+ - md_in_html
+ - pymdownx.blocks.caption
+ - meta
+ - toc:
+    permalink: true
